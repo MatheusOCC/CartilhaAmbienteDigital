@@ -60,4 +60,5 @@ with st.expander('Ferramentas Úteis'):
     st.write('https://www.haveibeenpwned.com/ (Site que verifica se algum endereço de e-mail ou senha seus já foi vazado)')
     st.write('https://tosdr.org/pt_BR/frontpage/ (Site comunitário que analisa os termos de serviços de sites e aplicativos no mundo)')
     st.write('https://www.boatos.org/ e https://www.e-farsas.com/ (Sites que checam a veracidade de boatos viralizados recentemente)')
+    st.write('https://www.techtudo.com.br/dicas-e-tutoriais/2023/03/como-ativar-monitoramento-parental-nas-redes-sociais-e-proteger-seu-filho-edapps.ghtml (Site ensinando a ativar o monitoramento parental nas redes sociais)')
     
