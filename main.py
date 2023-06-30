@@ -33,6 +33,8 @@ with st.expander('Notícias Importantes'):
     st.write('https://vejario.abril.com.br/coluna/fabio-barbirato/como-evitar-que-seu-filho-seja-vitima-de-crimes-na-internet/')
     st.write('https://www.adrenaline.com.br/seguranca/windows-11-coleta-e-envia-dados-de-usuarios-para-varias-empresas-denuncia-youtuber/')
     st.write('https://olhardigital.com.br/2019/08/09/dicas-e-tutoriais/como-dificultar-a-coleta-de-dados-no-computador-e-no-celular/')
+    st.write('https://www.techtudo.com.br/noticias/2022/03/golpe-do-perfil-fake-em-relacoes-virtuais-atinge-1-a-cada-4-brasileiros.ghtml')
+    st.write('https://www.bbc.com/portuguese/brasil-42172146')
 with st.expander('Explicando conceitos'):
     st.subheader('Software Livre vs proprietário')
     st.write('https://g1.globo.com/tecnologia/blog/tira-duvidas-de-tecnologia/post/software-livre-vale-pena-ser-substituido-por-programas-pagos.html')
