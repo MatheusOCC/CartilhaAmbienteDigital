@@ -30,7 +30,7 @@ with st.expander('Indicações de Leitura'):
     st.write('https://www.perallis.com/news (Empresa especializada em cibersegurança)')
     st.write('https://www.olharldigital.com/ (Empresa especializada em cibersegurança)')
     st.write('https://www.tecmundo.com.br/seguranca (Empresa especializada em tecnologia, com notícias de cibersegurança)')
-    st.write('https://lupa.uol.com.br/' (Agência de notícias com foco em desinformação)')
+    st.write('https://lupa.uol.com.br/ (Agência de notícias com foco em desinformação)')
 with st.expander('Notícias Importantes'):
     st.write('https://canaltech.com.br/hacker/hackers-chineses-invadem-entidades-governamentais-pelo-mundo-brasil-na-lista-158443/')
     st.write('https://vejario.abril.com.br/coluna/fabio-barbirato/como-evitar-que-seu-filho-seja-vitima-de-crimes-na-internet/')
