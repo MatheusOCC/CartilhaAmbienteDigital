@@ -23,6 +23,7 @@ with st.expander('Referências Utilizadas'):
     st.write('https://fia.com.br/blog/cyberbullying/')
     st.write('https://brasilescola.uol.com.br/sociologia/cyberbullying.htm')
     st.write('https://olhardigital.com.br/2022/04/29/tira-duvidas/sinais-perfil-falso-redes-sociais/')
+    st.write('https://www.hipercultura.com/fake-news-consequencias-tragicas/')
 
 
 st.header('Indicações de Leitura')
@@ -39,6 +40,7 @@ with st.expander('Notícias Importantes'):
     st.write('https://www.techtudo.com.br/noticias/2022/03/golpe-do-perfil-fake-em-relacoes-virtuais-atinge-1-a-cada-4-brasileiros.ghtml')
     st.write('https://www.bbc.com/portuguese/brasil-42172146')
     st.write('https://arquivo.canaltech.com.br/comportamento/pesquisa-da-intel-revela-dados-sobre-cyberbullying-no-brasil-46105/')
+    st.write('https://www.uol.com.br/splash/noticias/2022/10/11/o-caso-real-de-linchamento-que-inspirou-gloria-perez-em-travessia.html')
 with st.expander('Explicando conceitos'):
     st.subheader('Software Livre vs proprietário')
     st.write('https://g1.globo.com/tecnologia/blog/tira-duvidas-de-tecnologia/post/software-livre-vale-pena-ser-substituido-por-programas-pagos.html')
