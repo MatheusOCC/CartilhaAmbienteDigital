@@ -20,14 +20,17 @@ def secao():
 
 def cartilha():
     cartilhas.carrega_cartilha()
+    return ''
 
 
 def extra():
     extras.carrega_extras()
+    return ''
 
 
 def main():
     cartilha() if secao() == 'cartilha' else extra()
+    return 
 
 
 if __name__ == '__main__':
