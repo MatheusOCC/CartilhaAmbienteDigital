@@ -23,7 +23,8 @@ with st.expander('Referências Utilizadas'):
     st.write('https://fia.com.br/blog/cyberbullying/')
     st.write('https://brasilescola.uol.com.br/sociologia/cyberbullying.htm')
     st.write('https://olhardigital.com.br/2022/04/29/tira-duvidas/sinais-perfil-falso-redes-sociais/')
-    st.write('https://www.hipercultura.com/fake-news-consequencias-tragicas/')
+    st.write('https://www.kaspersky.com.br/resource-center/preemptive-safety/cyberbullying-and-cybercrime/')
+    
 
 
 st.header('Indicações de Leitura')
@@ -33,6 +34,8 @@ with st.expander('Indicações de Leitura'):
     st.write('https://www.tecmundo.com.br/seguranca (Empresa especializada em tecnologia, com notícias de cibersegurança)')
     st.write('https://lupa.uol.com.br/ (Agência de notícias com foco em desinformação)')
     st.write('https://www.unicef.org/brazil/cyberbullying-o-que-eh-e-como-para-lo (Como parar com o Bullying)')
+    st.write('https://help.twitter.com/pt/safety-and-security/report-abusive-behavior#:~:text=Pressione%20e%20mantenha%20pressionada%20a,e%20selecione%20Denunciar%20%40username).&text=Caso%20voc%C3%AA%20selecione%20%C3%89%20abusivo,o%20problema%20que%20est%C3%A1%20denunciando (Como denunciar abuso no Twitter)')
+
 with st.expander('Notícias Importantes'):
     st.write('https://canaltech.com.br/hacker/hackers-chineses-invadem-entidades-governamentais-pelo-mundo-brasil-na-lista-158443/')
     st.write('https://vejario.abril.com.br/coluna/fabio-barbirato/como-evitar-que-seu-filho-seja-vitima-de-crimes-na-internet/')
@@ -65,3 +68,6 @@ with st.expander('Ferramentas Úteis'):
     st.write('https://www.boatos.org/ e https://www.e-farsas.com/ (Sites que checam a veracidade de boatos viralizados recentemente)')
     st.write('https://www.techtudo.com.br/dicas-e-tutoriais/2023/03/como-ativar-monitoramento-parental-nas-redes-sociais-e-proteger-seu-filho-edapps.ghtml (Site ensinando como ativar o monitoramento parental)')
     
+st.header('Lista de Delegacias de cibercrimes')
+with st.expander('Delegacias do Brasil'):
+    st.write('https://new.safernet.org.br/content/delegacias-cibercrimes (Lista de todas as delegacias do Brasil)') 
