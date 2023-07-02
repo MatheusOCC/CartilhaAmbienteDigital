@@ -4,7 +4,7 @@ import logging
 import cartilhas
 import extras
 
-st.title('Cartilha: Segurança e Provacidade no Ambiente Digital')
+st.title('Cartilha: Segurança e Privacidade no Ambiente Digital')
 st.caption('Desenvolvido para a disciplina Computador, Ética e Sociedade (MATA68) da UFBA - Universidade Federal da Bahia, em 2023.1')
 st.caption('Autores: Indaiara Bonfim; Jade do Nascimento; Marcos dos Anjos; Matheus Cerqueira; Rômulo Chamusca')
 
