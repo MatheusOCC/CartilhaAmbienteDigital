@@ -26,7 +26,7 @@ with st.expander('Referências Utilizadas'):
     st.write('https://www.hipercultura.com/fake-news-consequencias-tragicas/')
 
 
-st.header('Indicações de Leitura')
+st.header('Indicações de Leitura' 	:books:)
 with st.expander('Indicações de Leitura'):
     st.write('https://www.perallis.com/news (Empresa especializada em cibersegurança)')
     st.write('https://www.olharldigital.com/ (Empresa especializada em cibersegurança)')
