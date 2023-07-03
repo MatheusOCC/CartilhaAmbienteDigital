@@ -14,6 +14,7 @@ def carrega_extras():
         st.write('https://fia.com.br/blog/cyberbullying/')
         st.write('https://brasilescola.uol.com.br/sociologia/cyberbullying.htm')
         st.write('https://olhardigital.com.br/2022/04/29/tira-duvidas/sinais-perfil-falso-redes-sociais/')
+        st.write('https://www.uol.com.br/tilt/noticias/redacao/2022/04/26/como-saber-se-perfil-e-fake-no-instagram-facebook-whatsapp-e-tiktok.htm')
         st.write('https://www.kaspersky.com.br/resource-center/preemptive-safety/cyberbullying-and-cybercrime/')
         st.write('https://www.gov.br/casacivil/pt-br/assuntos/noticias/2022/setembro/90-dos-lares-brasileiros-ja-tem-acesso-a-internet-no-brasil-aponta-pesquisa')
         st.write('https://g1.globo.com/tecnologia/blog/tira-duvidas-de-tecnologia/post/software-livre-vale-pena-ser-substituido-por-programas-pagos.html')
